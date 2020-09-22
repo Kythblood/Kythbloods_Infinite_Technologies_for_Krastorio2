@@ -1,0 +1,12 @@
+{
+	"name": "Kythbloods_Infinite_Technologies_for_Krastorio2",
+	"version": "0.1.0",
+	"factorio_version": "1.0",
+	"title": "Kythbloods Infinite Technologies for Krastorio 2",
+	"author": "Kythblood",
+	"dependencies": [
+		"base >= 1.0",
+        "Krastorio2"
+	],
+  "description": "Unofficial expansion for Krastorio 2 that adds new technologies, adds more levels to existing ones and makes most of them infinite. All features can be toggled individually in the settings."
+}
