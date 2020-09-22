@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 28.08.2020
+  Changes:
+    - Made changes to the technologies kr-robot-battery and kr-robot-battery-plus
+    - Reduced the bonus of the technologies kr-robot-battery and kr-robot-battery-plus to balance out the new technologies
+  Features:
+    - Added multiple robot battery technologies and a infinite version, in the style of K2's other infinite technoloies

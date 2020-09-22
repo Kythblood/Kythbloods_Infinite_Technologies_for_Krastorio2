@@ -1,0 +1,19 @@
+Special thanks to Krastor and Linver for developing Krastorio 2.
+
+While this mod does not contain any graphics or code from Krastorio 2,
+some technology icons are using icons from their mod.
+
+They are:
+ - the Robot battery technology uses Krastorio 2's "robot-battery.png" as an icon
+ - the Nanite enhancements (Health) and the Nanite enhancements (Speed) technologie 
+   uses their "first-aid-kit.png" as a base layer and add masks to modify the icon
+
+
+The gears in the bottom left corner of the Character crafting speed technology are 
+an edited and downscaled version of an icon made by Freepik from www.flaticon.com.
+
+The gears in the bottom left corner of the Lab productivity technology are an edited 
+and downscaled version of an icon made by ProSymbols from the Noun Project.
+
+
+Most other graphics are edited versions of graphics from the factorio base game. 
